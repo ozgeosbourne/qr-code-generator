@@ -44,6 +44,7 @@ body {
     cursor: pointer;
     margin: 20px 0;
     font-weight: 500;
+    font-size: 12px;
 }
 #imgBox {
     width: 200px;
